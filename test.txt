@@ -30,3 +30,5 @@
                                       repository.
                                     - Each time you run git commit, Git, creates a snapshot of your repository 
                                     -  This allows you to roll back to a previous commit whenever needed.
+* Git restore filename   -  If you want to restore file and file has been deleted then we cann restore by this command
+////

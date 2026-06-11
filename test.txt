@@ -1,0 +1,29 @@
+* Git Init   - to start version controlling of folder /Repo
+             - With this command empty repo create .git which is hidden
+             - This will allow us to use git command inside those folder
+
+* Git status - To know the status of the folder
+             - In which branch we are working
+             - File  is trackable or not / Commited or not
+
+@ Branch   - It is subsidiary of main code were code is                             same but coder will do testing or doing other thing because of that main branch will not affect
+
+
+* Git branch         - To check all branches
+  Git branch name    - To create new branch
+  git branch -d name - to delete branch
+
+* Git checkout -b branch-name  - to create new brach and switch to new branch
+* Git switch -c branch-name    - switch to other branch
+                      
+          
+* git add     - The git add command adds your changes to the staging area.
+              - It tells Git that the repository should update these changes.   o             - once the user runs the commit command.
+
+              - git add . : stages the changes made to all files. 
+              - git add <file_name>: includes only the changes made to a                          s               specific file in the staging area.
+
+* Git commit filename -m "12345678" - A git commit command saves the changes   
+                                      you have made (or staged) to the local          m                                     repository.
+                                    - Each time you run git commit, Git,                            c                                     creates a snapshot of your repository 
+                                    -  This allows you to roll back to a                                 p                                      previous commit whenever needed.
